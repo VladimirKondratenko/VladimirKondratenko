@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=VladimirKondratenko&style=flat-square" alt="Profile views" align="right">
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimirkondratenko/)
 
