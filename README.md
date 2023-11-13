@@ -1,5 +1,10 @@
-<img src="https://komarev.com/ghpvc/?username=VladimirKondratenko&style=flat-square" alt="Profile views" align="right">
 ### Hi there 👋
+My name is Vladimir.
+<br>I'm a Front-end developer with experience in developing customer products.
+
+### Contact me
+📧 Email: [v.n.kondratenko@yandex.by](mailto:v.n.kondratenko@yandex.by)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimirkondratenko/)
 
 [![](https://www.codewars.com/users/VladimirKondratenko/badges/micro)](https://www.codewars.com/users/VladimirKondratenko)
