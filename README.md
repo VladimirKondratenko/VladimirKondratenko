@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimirkondratenko/)
+
+[![](https://www.codewars.com/users/VladimirKondratenko/badges/micro)](https://www.codewars.com/users/VladimirKondratenko)
 
 <!--
 **VladimirKondratenko/VladimirKondratenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
